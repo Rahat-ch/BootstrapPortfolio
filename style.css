@@ -21,10 +21,15 @@ body{
 
 
 .mee{
-  margin-left: 250px;
+  margin-left: 30%;
 }
 
 #socialContainer{
   margin-top: 20px;
-  margin-left: 475px;
+  margin-left: 1050%;
+  display: inline;
+}
+
+.col-md-4{
+  padding-bottom: 15px;
 }
